@@ -1,0 +1,11 @@
+# JetBrains
+*.idea
+
+# __pychache__
+*.pyc
+
+# Fichero orden elementos carpeta MacOS
+*.DS_Store
+
+# SQLite
+# *.sqlite3
